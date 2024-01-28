@@ -1,2 +1,5 @@
 # cursoBootcampJx
-Repositorio de curso Bootcamp de JuacaxDev
+
+torio de curso Bootcamp de JuacaxDev
+
+prueb arepo con git de juaca
