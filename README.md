@@ -15,3 +15,9 @@ Utilizamos los comands de git add, git commit y git push.
 - p
 - br
 - hr
+- meta (author, keywords, viewport)
+- img
+
+# Aprendemos sobre atributos
+
+vemos como incorporar atributos a nuetras etiquetas img
