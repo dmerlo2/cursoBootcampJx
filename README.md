@@ -1,5 +1,17 @@
 # cursoBootcampJx
 
-torio de curso Bootcamp de JuacaxDev
+Nuestro primer repoeitorio de GitHub para llevar adelante todo lo que aprndsamos deHTML
 
-prueb arepo con git de juaca
+# Aprendemos a subir cambios en GitHub
+
+Utilizamos los comands de git add, git commit y git push.
+
+# Aprendemos etiquetas
+- html
+- head
+- body
+- title
+- h1 - h6
+- p
+- br
+- hr
