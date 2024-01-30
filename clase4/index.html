@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 4</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        /*
+        Estilo creado para la clase h1 que se usa en el titulo
+        */
+        #h1Clase4 {
+            font-family: "Arial";
+            background-color: chartreuse;
+        }
+        h2{
+            font-family: Arial;
+        }
+        /*Etiquetas h2 dentro de un div*/
+        div h2{
+            background-color: crimson;
+        }
+        div h1{
+            font-size: 5mm;
+        }
+        .h1Otro {
+            font-family: Impact;
+            background-color: aquamarine;
+        }
+        /*h2 que hereda proiedades de la clase h1Otro*/
+        h2.h1Otro{
+            font-family: Arial;
+        }
+ </style>
+</head>
+<body>
+    <h1 id="h1Clase4">Clase 4</h1>
+    <h1 class="h1Otro">Otra etiqueta h1</h1>
+    <h1 class="h1Otro">Otra etiqueta h1 nueva</h1>
+    <h2 class="h1Otro">Una etiqueta h2</h2>
+    <h2>Otra etiqueta h2</h2>
+    <div>
+        <h2>Una h2 dentro de una p</h2>
+    </div>
+    <div>
+        <h1>H1 dentro de un div</h1>
+    </div>
+    <a href="../index.html" title="Boton para Volver al Index">Volver</a>
+</body>
+</html>
